@@ -6,4 +6,9 @@
 var helloVar = "HELLOOOOO EVERYONEEEEEEE";
 ```
 
+
+- [x] Wake up
+- [x] Praise Allah
+- [x] Make this money
+- [ ] Level up
 I added a big header in this markdown file
